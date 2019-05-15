@@ -2465,7 +2465,7 @@ body {
     #header > nav > a:hover {
       color: #ffffff; }
     #header > nav > a[href="#menu"] {
-      text-decoration: none;
+      text-decoration: underline;
       -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
       #header > nav > a[href="#menu"]:before {
         -moz-osx-font-smoothing: grayscale;
