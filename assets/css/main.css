@@ -53,6 +53,7 @@ section, summary, time, mark, audio, video {
 menu, nav {
   font-size: 200%;
   background-color: grey;
+  color: white;
 }
 
 article, aside, details, figcaption, figure,
